@@ -29,9 +29,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xbox.Music", "XboxMusic\Xbox.Music.csproj", "{53203A30-E4CE-4B7E-AE31-A46B8C7CC142}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "libs", "libs", "{285F580B-F600-46BE-A1B6-F4F3BA669C4F}"
-	ProjectSection(SolutionItems) = preProject
-		Meridian\sqlite3.dll = Meridian\sqlite3.dll
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VkLib", "VkLib\VkLib.csproj", "{7D6F23CA-6BE8-487F-8E96-F990DC34EE4D}"
 EndProject
